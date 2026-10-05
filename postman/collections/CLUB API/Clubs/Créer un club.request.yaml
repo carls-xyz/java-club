@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8088/clubs
+method: POST
+body:
+  type: json
+  content: '{"nom": "Marseille", "coach": "Zidane", "effective": 22, "budget": 200}'
+order: 1791220309560

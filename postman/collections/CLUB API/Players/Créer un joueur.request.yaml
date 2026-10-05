@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8088/players
+method: POST
+body:
+  type: json
+  content: '{"nom": "Mbappe", "position": "Attaquant", "number": 7}'
+order: 1791220589732

@@ -1,0 +1,7 @@
+$kind: http-request
+url: http://localhost:8088/match?club1=1&club2=2
+method: POST
+queryParams:
+  club1: "1"
+  club2: "2"
+order: 1791220742671
